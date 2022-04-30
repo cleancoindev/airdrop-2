@@ -1,0 +1,182 @@
+[
+	{
+		"address": "0x7f0e180fc242da29b73719cd66a8108325f443bc",
+		"reduction": "2592000"
+	},
+	{
+		"address": "0x5a20d2477401d87df1884506d49f9d21316d0bb9",
+		"reduction": "2593204"
+	},
+	{
+		"address": "0x425e7284d47582c71c2eb8f22dd7679f4baaea5e",
+		"reduction": "2592023"
+	},
+	{
+		"address": "0xa0ec16a21b5d5e4d462f7eaebaa49a67264ad9c7",
+		"reduction": "2593435"
+	},
+	{
+		"address": "0x1a6be2d610a13661e82e222ab32f226b492b0f31",
+		"reduction": "2595234"
+	},
+	{
+		"address": "0x935361eb81ffe4eef326902ac37e8aba82edf403",
+		"reduction": "2596959"
+	},
+	{
+		"address": "0x619f2cc21b479c2ea33f2df77772a3e856375da2",
+		"reduction": "2900637"
+	},
+	{
+		"address": "0xbdfc47b9ad740b4151935680b6ca0b3d1828f100",
+		"reduction": "2603558"
+	},
+	{
+		"address": "0x1fac6eee2197c98d1ef0f166eccffa8632e9a279",
+		"reduction": "3317050"
+	},
+	{
+		"address": "0x92ff65a464dfa289fc09225f1c44ae80b10e5044",
+		"reduction": "2756646"
+	},
+	{
+		"address": "0x6e2ff642d60d1c99811f0a1a39e1b0250c488cce",
+		"reduction": "2601442"
+	},
+	{
+		"address": "0x5769866a8d76e53479ca0d919069e58f230b5bb1",
+		"reduction": "2609175"
+	},
+	{
+		"address": "0xbe34f5eea53fc23eaad5bcf53c2e8cc0e2136f7f",
+		"reduction": "2749295"
+	},
+	{
+		"address": "0x04690d75cff7385706739123c8cba5f715d03ac0",
+		"reduction": "2691162"
+	},
+	{
+		"address": "0x26602a5f7eff57fa32d9cfb08cac447aaa93ed38",
+		"reduction": "2644973"
+	},
+	{
+		"address": "0x08e305f123faff04a6a24243f47984a7a9702417",
+		"reduction": "2641275"
+	},
+	{
+		"address": "0x3bc23cf1f9fbbb8c332be106804f46ff8074f9a8",
+		"reduction": "3595738"
+	},
+	{
+		"address": "0xa1213ca9b378a7b73d92fcc2fe1db4228a6459a7",
+		"reduction": "2952357"
+	},
+	{
+		"address": "0x750a31fa07184caf87b6cce251d2f0d7928badde",
+		"reduction": "2705563"
+	},
+	{
+		"address": "0x856b63349fb6c818ea7cd7305483ae0ef6956f6c",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0xcc77d0e7b9819e3260d613943d4e7fcbd3aa3349",
+		"reduction": "3153902"
+	},
+	{
+		"address": "0xfa95a1cb0cfe88d3d266660fdeb72b4b1d9e50dc",
+		"reduction": "3352452"
+	},
+	{
+		"address": "0x88f81b95eae67461b2d687343d36852f87409a7b",
+		"reduction": "4510831"
+	},
+	{
+		"address": "0xbc63219a3a5453db9ccd7096c6009c1ed4e69b45",
+		"reduction": "2937570"
+	},
+	{
+		"address": "0xc6302894cd030601d5e1f65c8f504c83d5361279",
+		"reduction": "5179807"
+	},
+	{
+		"address": "0x45b2dd92f96ed1f4ba59d3f8bac8832a697bc264",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x98748309ec0065499fce66f6a839b1560c45aebb",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x543275caabf55f56b2db82ea636ff0c6e8c6466b",
+		"reduction": "2719643"
+	},
+	{
+		"address": "0xff3337af986289fab8d51260e7bfc40102bb0c72",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0xbe93d14c5defb8f41af8fb092f58e3c71c712b85",
+		"reduction": "4007537"
+	},
+	{
+		"address": "0x0b2d93ff16010e844960366f47051c36fa1bc371",
+		"reduction": "3989254"
+	},
+	{
+		"address": "0x50959de69bf581b6ac74755a00fee01c7b23918e",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x8e8cc98808d0be463e1cc5f3aebbb3773ada818a",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x9674fc77a3f5773002877cae189a51ea89cc4316",
+		"reduction": "2687553"
+	},
+	{
+		"address": "0x22da1eedebc60c1b8c3a0c48f5c81bbe2b943dd9",
+		"reduction": "3700795"
+	},
+	{
+		"address": "0x36e272fa836115837b1dce51fbd8f273f7d839d3",
+		"reduction": "2992675"
+	},
+	{
+		"address": "0x0edfbbbcc1153959ce479353b226ad90f717d424",
+		"reduction": "49248000"
+	},
+	{
+		"address": "0x1a6a79666decd8db8e9155b2e8411be8f8f08d51",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x303d0e1ec982df5d681f7c5c0d323619fdfb8cf7",
+		"reduction": "3750021"
+	},
+	{
+		"address": "0x39b185fcf2b7eff74cfd2a48be043f5b55c44bdc",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x5bc6a64275391dd2d79cf0431dbdd888e5ef35f1",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x76b20a25373250d1229070d8876c45a675e61d89",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0xe3d973a1b738942c87b534ba2bb31a8388874241",
+		"reduction": "23328000"
+	},
+	{
+		"address": "0x9fd4a0fe72e818d0d5db21709e621b54d9cb2572",
+		"reduction": "3387988"
+	},
+	{
+		"address": "0xb29cd9c87a624b940335d6d5e1d4aadf7d95beec",
+		"reduction": "23328000"
+	}
+]
